@@ -1,2 +1,3 @@
 # SeattleCrime
-I'll fill this in later
+This simple webapp helps visualize crime in Seattle. It is powered by python flask and SQLlite.
+
